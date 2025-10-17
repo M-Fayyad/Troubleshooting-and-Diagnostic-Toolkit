@@ -28,7 +28,6 @@ troubleshoot-tool/
 ├── network-test.sh          # 🌐 Network connectivity tests
 ├── service-check.sh         # 🔧 Service management
 ├── log-checker.sh           # 📋 Log analysis
-├── security-check.sh        # 🛡️ Basic security scans
 └── README.md               # 📖 This file
 ```
 
